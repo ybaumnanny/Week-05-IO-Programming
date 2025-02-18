@@ -1,0 +1,7 @@
+ID,Name,Age,Marks,Grade
+101,Yaman,21,85,A
+102,Vatsalya,22,78,B
+103,Tanushree,20,90,A
+101,MoyYaman,21,85,A   <-- Duplicate
+104,Moya,23,88,A
+102,Grey,22,78,B  <-- Duplicate

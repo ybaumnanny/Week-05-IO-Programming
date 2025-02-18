@@ -1,0 +1,6 @@
+Name,Email,Phone,Department
+John,john.doe@example.com,9876543210,IT
+Alice,alice.smith@company,123456789,HR
+Bob,bob.jones@example.com,9823456789,Finance
+Eve,eve.invalid-email,9876543,Engineering
+Mike,mike.williams@email.com,8765432109,IT

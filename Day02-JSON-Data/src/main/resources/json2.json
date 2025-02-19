@@ -1,0 +1,9 @@
+{
+    "age": 32,
+    "address": {
+        "zipcode": "10002",
+        "country": "USA"
+    },
+    "hobbies": ["cycling"],
+    "email": "johndoe@example.com"
+}
